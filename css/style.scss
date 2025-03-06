@@ -574,6 +574,19 @@ a:focus {
   }
 }
 
+
+.but { 
+display: inline-block;
+padding: 10px 55px;
+font-weight: 600;
+background-color: #ffbe33;
+color: #000;
+border-radius: 45px;
+-webkit-transition: all 0.3s;
+transition: all 0.3s;
+border: none;
+}
+
 // end food section
 
 // about section
